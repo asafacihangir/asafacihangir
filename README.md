@@ -68,6 +68,44 @@ Kafka Streams kullanarak stream processing problemlerinin çözülmesine yöneli
 
 ---
 
+## 🗂️ Gruplanmış Spring & Practice Repositories
+Aşağıda repository'lerimi "spring", "spring ai" ve "spring security" olarak gruplayıp listeledim. Ayrıca Hackerrank çözümlerini ayrı bir grup olarak ekledim.
+
+### Spring (Genel)
+- [spring-boot-workspace](https://github.com/asafacihangir/spring-boot-workspace)
+- [spring-boot-kafka-integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
+- [springboot-kafka-microservices](https://github.com/asafacihangir/springboot-kafka-microservices)
+- [spring-batch-workspace](https://github.com/asafacihangir/spring-batch-workspace)
+- [spring-boot-monitoring-demo](https://github.com/asafacihangir/spring-boot-monitoring-demo)
+- [spring-boot-oauth-demo](https://github.com/asafacihangir/spring-boot-oauth-demo)
+- [springboot-redis-streams-demo](https://github.com/asafacihangir/springboot-redis-streams-demo)
+- [springboot-tsid](https://github.com/asafacihangir/springboot-tsid)
+- [spring-rest-client-error-handling](https://github.com/asafacihangir/spring-rest-client-error-handling)
+- [springboot-integration-test-example](https://github.com/asafacihangir/springboot-integration-test-example)
+- [spring-boot-kafka-integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
+
+### Spring AI
+- [spring-ai-workspace](https://github.com/asafacihangir/spring-ai-workspace)
+
+### Spring Security
+- [spring-security-workspace](https://github.com/asafacihangir/spring-security-workspace)
+- [spring-security-jwt](https://github.com/asafacihangir/spring-security-jwt)
+- [spring-security-jwt-oauth2-oidc](https://github.com/asafacihangir/spring-security-jwt-oauth2-oidc)
+- [spring-security-google-oauth-demo](https://github.com/asafacihangir/spring-security-google-oauth-demo)
+- [spring-security-digest-auth](https://github.com/asafacihangir/spring-security-digest-auth)
+- [ott-spring-security-demo](https://github.com/asafacihangir/ott-spring-security-demo)
+- [spring-security-jwt-oauth2-oidc](https://github.com/asafacihangir/spring-security-jwt-oauth2-oidc)
+
+### Diğer Spring Demos
+- [spring-jobrunr-workspace](https://github.com/asafacihangir/spring-jobrunr-workspace)
+- [spring-quartzscheduler-workspace](https://github.com/asafacihangir/spring-quartzscheduler-workspace)
+- [spring-rabbitmq-workspace](https://github.com/asafacihangir/spring-rabbitmq-workspace)
+
+### Practice & Algorithms
+- [hackerrank](https://github.com/asafacihangir/hackerrank) — HackerRank çözümleri ve algoritma çalışma notları
+
+---
+
 **<h3 align="left">📊 Projects</h3>**
 
 <a href="https://github.com/asafacihangir?tab=repositories" target="_blank">View All Repositories →</a>
