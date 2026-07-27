@@ -1,111 +1,131 @@
-![👋 Hi, my name is Sefa Cihangir](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=asafacihangir&label=Profile%20views&color=0e75b6&style=flat)
+![Sefa Cihangir — Backend Developer](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Sefa Cihangir
-      </h1>
-    </summary>
-  </ul>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=asafacihangir\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/sefacihangir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
+# 👋 Hi, I'm Sefa Cihangir
 
- **<h3 align="left">🚀 Passionate backend developer, creating robust and scalable web applications. Skilled in back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+### Backend Developer | Java • Spring Boot • Kafka • Microservices
 
-**<h3 align="left">Rapid Fire</h3>**
+I build robust, scalable and maintainable backend applications with a strong focus on distributed systems, event-driven architectures and application performance.
 
-- 💼 I'm currently working on: **💻 Developing enterprise applications using Spring Boot and OpenUI5**
-- 📝 Blog: **<a href="https://medium.com/@asefacihangir" target="_blank">https://medium.com/@asefacihangir</a>**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sefacihangir/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@asefacihangir)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge\&logo=github)](https://github.com/asafacihangir?tab=repositories)
 
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="32" alt="Java">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="32" alt="Spring">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32" alt="Docker">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" height="32" alt="Kubernetes">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="32" alt="PostgreSQL">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="32" alt="Go">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="32" alt="Python">
 </div>
 
 ---
 
-## 📚 Kafka Projects
+## 🚀 About Me
 
-Kafka ile gerçekleştirdiğim proje ve çalışmalar:
-
-### 1. 🔐 [Fraud Detection System with Kafka Streams](https://github.com/asafacihangir/fraud-detection-system-kafka-demo)
-Real-time fraud detection system using Apache Kafka Streams. Sistem, transaction stream'lerini izler ve yapılandırılabilir kurallara dayalı olarak şüpheli aktiviteleri tanımlar.
-
-### 2. 📦 [Kafka Ordering](https://github.com/asafacihangir/kafka-ordering)
-Kafka ile message ordering ve partition management konusundaki pratik uygulamalar.
-
-### 3. 🚀 [Spring Boot Kafka Integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
-Spring Boot ile Kafka entegrasyonunun demo projesi. Producer ve Consumer yapılanması, message handling ve configuration örnekleri içerir.
-
-### 4. 🏗️ [Spring Boot Kafka Microservices](https://github.com/asafacihangir/springboot-kafka-microservices)
-Mikro-servis tabanlı mimari uygulaması. Shipping, Inventory ve Order servislerinden oluşur ve Kafka mesajlaşma sistemi üzerinden senkronizasyon ve gerçek zamanlı işlemler gerçekleştirilir.
-
-### 5. ⚡ [Stream Processing with Kafka Streams](https://github.com/asafacihangir/stream-processing-with-kafka-streams)
-Kafka Streams kullanarak stream processing problemlerinin çözülmesine yönelik örnekler ve best practices.
+* 💼 Currently developing enterprise applications using **Spring Boot** and **OpenUI5**
+* 🏗️ Interested in **microservices**, **distributed systems** and **event-driven architectures**
+* 🔐 Building authentication and authorization solutions with **Spring Security**, **JWT**, **OAuth 2.0** and **OpenID Connect**
+* 📡 Working with messaging and stream-processing technologies such as **Apache Kafka** and **RabbitMQ**
+* ✍️ Sharing technical articles on [Medium](https://medium.com/@asefacihangir)
 
 ---
 
-## 🎯 Other Notable Projects
+## 🛠️ Technologies
 
-- **DDD & Event-Driven Architecture**: Clean architecture principles ve event sourcing uygulamaları
-- **Hexagonal Architecture**: Java/Spring Boot ile hexagonal architecture pattern örnekleri
-- **RabbitMQ Integrations**: RabbitMQ ile messaging patterns ve queuing systems
-- **Spring Security**: JWT, OAuth2, OIDC authentication implementations
-- **Microservices**: Mikroservis mimarisi, saga patterns, distributed systems
-
----
-
-## 🗂️ Gruplanmış Spring & Practice Repositories
-Aşağıda repository'lerimi "spring", "spring ai" ve "spring security" olarak gruplayıp listeledim. Ayrıca Hackerrank çözümlerini ayrı bir grup olarak ekledim.
-
-### Spring (Genel)
-- [spring-boot-workspace](https://github.com/asafacihangir/spring-boot-workspace)
-- [spring-boot-kafka-integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
-- [springboot-kafka-microservices](https://github.com/asafacihangir/springboot-kafka-microservices)
-- [spring-batch-workspace](https://github.com/asafacihangir/spring-batch-workspace)
-- [spring-boot-monitoring-demo](https://github.com/asafacihangir/spring-boot-monitoring-demo)
-- [spring-boot-oauth-demo](https://github.com/asafacihangir/spring-boot-oauth-demo)
-- [springboot-redis-streams-demo](https://github.com/asafacihangir/springboot-redis-streams-demo)
-- [springboot-tsid](https://github.com/asafacihangir/springboot-tsid)
-- [spring-rest-client-error-handling](https://github.com/asafacihangir/spring-rest-client-error-handling)
-- [springboot-integration-test-example](https://github.com/asafacihangir/springboot-integration-test-example)
-- [spring-boot-kafka-integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
-
-### Spring AI
-- [spring-ai-workspace](https://github.com/asafacihangir/spring-ai-workspace)
-
-### Spring Security
-- [spring-security-workspace](https://github.com/asafacihangir/spring-security-workspace)
-- [spring-security-jwt](https://github.com/asafacihangir/spring-security-jwt)
-- [spring-security-jwt-oauth2-oidc](https://github.com/asafacihangir/spring-security-jwt-oauth2-oidc)
-- [spring-security-google-oauth-demo](https://github.com/asafacihangir/spring-security-google-oauth-demo)
-- [spring-security-digest-auth](https://github.com/asafacihangir/spring-security-digest-auth)
-- [ott-spring-security-demo](https://github.com/asafacihangir/ott-spring-security-demo)
-- [spring-security-jwt-oauth2-oidc](https://github.com/asafacihangir/spring-security-jwt-oauth2-oidc)
-
-### Diğer Spring Demos
-- [spring-jobrunr-workspace](https://github.com/asafacihangir/spring-jobrunr-workspace)
-- [spring-quartzscheduler-workspace](https://github.com/asafacihangir/spring-quartzscheduler-workspace)
-- [spring-rabbitmq-workspace](https://github.com/asafacihangir/spring-rabbitmq-workspace)
-
-### Practice & Algorithms
-- [hackerrank](https://github.com/asafacihangir/hackerrank) — HackerRank çözümleri ve algoritma çalışma notları
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="45" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" height="45" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="45" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="45" alt="Python" />
+</div>
 
 ---
 
-**<h3 align="left">📊 Projects</h3>**
+## 📚 Featured Kafka Projects
 
-<a href="https://github.com/asafacihangir?tab=repositories" target="_blank">View All Repositories →</a>
+### 🔐 [Fraud Detection System with Kafka Streams](https://github.com/asafacihangir/fraud-detection-system-kafka-demo)
+
+A real-time fraud detection system built with Apache Kafka Streams. It monitors transaction streams and identifies suspicious activity using configurable business rules.
+
+### 📦 [Kafka Ordering](https://github.com/asafacihangir/kafka-ordering)
+
+Practical examples covering Kafka message ordering, partitioning strategies and partition management.
+
+### 🚀 [Spring Boot Kafka Integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
+
+A Spring Boot and Apache Kafka integration demo featuring producer-consumer configuration, message handling and serialization examples.
+
+### 🏗️ [Spring Boot Kafka Microservices](https://github.com/asafacihangir/springboot-kafka-microservices)
+
+An event-driven microservices example composed of Order, Inventory and Shipping services that communicate asynchronously through Apache Kafka.
+
+### ⚡ [Stream Processing with Kafka Streams](https://github.com/asafacihangir/stream-processing-with-kafka-streams)
+
+Examples and best practices for solving stream-processing problems with Kafka Streams.
+
+---
+
+## 🎯 Areas of Interest
+
+* Domain-Driven Design
+* Event-Driven Architecture
+* Clean Architecture
+* Hexagonal Architecture
+* Event Sourcing
+* Microservices
+* Saga Pattern
+* Distributed Systems
+* Stream Processing
+* Application Security
+* Observability and Monitoring
+
+---
+
+## 🗂️ Repository Collections
+
+### 🌱 Spring Boot
+
+* [spring-boot-workspace](https://github.com/asafacihangir/spring-boot-workspace)
+* [spring-boot-kafka-integration](https://github.com/asafacihangir/spring-boot-kafka-integration)
+* [springboot-kafka-microservices](https://github.com/asafacihangir/springboot-kafka-microservices)
+* [spring-batch-workspace](https://github.com/asafacihangir/spring-batch-workspace)
+* [spring-boot-monitoring-demo](https://github.com/asafacihangir/spring-boot-monitoring-demo)
+* [spring-boot-oauth-demo](https://github.com/asafacihangir/spring-boot-oauth-demo)
+* [springboot-redis-streams-demo](https://github.com/asafacihangir/springboot-redis-streams-demo)
+* [springboot-tsid](https://github.com/asafacihangir/springboot-tsid)
+* [spring-rest-client-error-handling](https://github.com/asafacihangir/spring-rest-client-error-handling)
+* [springboot-integration-test-example](https://github.com/asafacihangir/springboot-integration-test-example)
+
+### 🤖 Spring AI
+
+* [spring-ai-workspace](https://github.com/asafacihangir/spring-ai-workspace)
+
+### 🔐 Spring Security
+
+* [spring-security-workspace](https://github.com/asafacihangir/spring-security-workspace)
+* [spring-security-jwt](https://github.com/asafacihangir/spring-security-jwt)
+* [spring-security-jwt-oauth2-oidc](https://github.com/asafacihangir/spring-security-jwt-oauth2-oidc)
+* [spring-security-google-oauth-demo](https://github.com/asafacihangir/spring-security-google-oauth-demo)
+* [spring-security-digest-auth](https://github.com/asafacihangir/spring-security-digest-auth)
+* [ott-spring-security-demo](https://github.com/asafacihangir/ott-spring-security-demo)
+
+### 📨 Messaging and Job Scheduling
+
+* [spring-rabbitmq-workspace](https://github.com/asafacihangir/spring-rabbitmq-workspace)
+* [spring-jobrunr-workspace](https://github.com/asafacihangir/spring-jobrunr-workspace)
+* [spring-quartzscheduler-workspace](https://github.com/asafacihangir/spring-quartzscheduler-workspace)
+
+### 🧩 Practice and Algorithms
+
+* [hackerrank](https://github.com/asafacihangir/hackerrank) — Algorithm exercises, problem-solving examples and HackerRank solutions
+
+---
+
+<div align="center">
+
+## 📊 Explore My Projects
+
+[View All Repositories →](https://github.com/asafacihangir?tab=repositories)
+
+</div>
